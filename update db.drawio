@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T07:35:15.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gpe0ngMrI50fARdbGrkG" version="14.0.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vnbdps4FP0aP8YLEGDyGDtJ20ymq22SeuapSwYZGAtEhBybfv1IIC7ilri1M82sPhkdjq77nK3N8QQsov07CpPgT+IhPDE0bz8BlxPD0IHj8B9hyQqLbc0Kg09DTzrVhrvwO5JGTVq3oYdSxZERglmYqEaXxDFymWKDlJKd6rYmWJ01gT7qGO5ciLvWZeixoLA6xqy2v0ehH5Qz6/Z58SaCpbPcSRpAj+waJnA1AQtKCCueov0CYXF45bksP2RLfLux3918Th/hw/yP+49fz4rBrg/pUm2Bopj98NDzHfzgP3z5pn18nN0AiG6W2nU5dMqy8ryQx49PNgllAfFJDPFVbZ1Tso09JEbVeKv2uSUk4UadG/9BjGUyFuCWEW4KWITlW74Lmv0l+k+tsvm3HC5vXO6VVtZsfUI0jBBDVBqLDYhVt/B+5rDKnZMtddGIH5AxC6mP5Hhfg8xMt9/u7z/vo802zpbgYnNmVhHBUwkRvkSa8X4UYcjCJ3VxUMa0X/lVXT+RkC/b0GT+OZoMvqxsqyMUy5KdavAvKIVZwy0RDunwNDN1Ft1ohVLL3R735w/FAspW40RqUx6eB4SqUUz5BPFWnuZD4kGGBDdBBkX3WD6vYIp6A/sWrji9KcEIcejH/Nnl4SKCav6EKAs5f1zIF1HoeUXcozT8Dlf5eCLy5KHywa35xLqsYlEMgPYK4JLcZOeaUppROpyf3aiSo59pU820FCjMovWjYaeOUnYg63WKWAviQ0Edy64GqBdJgvnxs5DEHQhr5hHI7YKQobsE5um747eXCuyaxExSkM73OfcxTFMJXcoo2VT3gfCuyF28XocYLwgmNJ8WeBA5a7fq1nhjuw5arSvkX0o6nQgZRFhXE80Asr2rr7Iy+bSgcY1Z2jDkCoaHAmZ3ALslPFm4aQHdoJt1NCDRaps+D5cKAMfuGkYhFvt+j/ATEinZA2one3uQ5VOGsc9bdt26z68qTtqng85oQTfrgU7rga5N8UeDroylBnYUeWH6G7MKM1M31YvNfEXQei8A8CsJtOrdgEA7ohYb1liqFhuJ9KOLMdNupfT5adRYW16V8wzJMdM2x/xPI8fMDpnoUyG/8s/HDRL7XVMS5afeRzJvUo6BUfbgagycg58TYEeVXL17sH4zyiij9B7aaQilnejAfh1CAc983wEw6n8aQpl1CMUQhJKi2BPVGJSmotIjqkei+fj/IBRrlFDE993MakmSX4hfxlKqgePl0Ce5KvyMjrhMhF+090VlcrrGZOcGkLJp9YnfL1BPJQ5ts1X16FH0do82bCf10bSh/Z8yud7k8Qatn57Jhxn6BdrQPgaTH0rARquMpzvjBNz2B/orELDTSdwvyEXiTCopJ2jXxvx45yvKn3zxxBUfyqtwWBYC3N5CwJuk54FgqfSe5diGAtTZT8q/kvjbxQOgjnA6dditEUBXbKTnwn0rZYKegHgZ6wyXdpxWOp+wTMCb9V9MBcr1H3Xg6l8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-29T08:04:01.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="UOc0F--zw2Av6nmr-EE6" version="14.0.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1388" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Vhy4su_TTQxmkunyW3Ak-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="120" />
+              <mxPoint x="670" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-2" value="1. Update data in database" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BwaIgUR_0Nq7J3aeJW0F-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.045" y="4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Local Cache" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="270" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="redis" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="140" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vhy4su_TTQxmkunyW3Ak-4" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="290" />
+              <mxPoint x="464" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-4" value="2. del key from redis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BwaIgUR_0Nq7J3aeJW0F-3" vertex="1" connectable="0">
+          <mxGeometry x="0.0393" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vhy4su_TTQxmkunyW3Ak-4" target="BwaIgUR_0Nq7J3aeJW0F-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="320" />
+              <mxPoint x="330" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-7" value="3. send message to mq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BwaIgUR_0Nq7J3aeJW0F-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.0754" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhy4su_TTQxmkunyW3Ak-4" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwaIgUR_0Nq7J3aeJW0F-0" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="180" />
+              <mxPoint x="200" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-8" value="4. receive from mq&lt;br&gt;delete local cache" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BwaIgUR_0Nq7J3aeJW0F-6" vertex="1" connectable="0">
+          <mxGeometry x="0.5862" y="-3" relative="1" as="geometry">
+            <mxPoint x="-20" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwaIgUR_0Nq7J3aeJW0F-0" value="activemq" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="140" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
